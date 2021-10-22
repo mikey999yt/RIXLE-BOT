@@ -58,4 +58,5 @@ await conn.connect();
  conn.on('group-participants-update', action.groupUpdate);
  }
  Ft.action()
+ console.clear()
  run();// Menjalankan Bot
