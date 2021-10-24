@@ -90,7 +90,7 @@ before: `*${me}*
 *calender islam:* ${dateIslamic}
 *calender Java:* ${week} ${weton} ${date}
 
-*Github:*\nhttps://github.com/Rizxyu/RIXLE-BOT`.trimStart(),
+*Github:*\nhttps://github.com/xcz404`.trimStart(),
 type: "*#type*\n",
 after: "\n"
 }
